@@ -14,7 +14,7 @@ In addition to its ability to relax the brain, sound can also have a number of o
 
 Overall, the relaxing power of sound is undeniable. Whether it's through entrainment, distraction, or any of its other beneficial effects, sound can be a powerful tool for helping us to relax and de-stress. So the next time you're feeling overwhelmed or anxious, consider turning on some soothing sounds and letting them work their magic on your brain.
 
-<br/>&#9642; Summary
+&#9642; Summary
 
 Planet Drone is an Open Source Raspberry PI Eurorack-Module project, which uses the <a href="https://supercollider.github.io/" target="_blank">SuperCollider</a> platform to generate distinctive and captivating music drones.
 
