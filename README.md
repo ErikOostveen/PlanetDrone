@@ -26,8 +26,9 @@ Each module comes with a selection of patches written in the SuperCollider real 
 
 Collect or build all three modules and get droning!
 
+&#9642; Demos
 
-Check out my <a href="https://www.youtube.com/watch?v=LrP70BMYkts&list=PL4E2GvauW2Yx9BJaXl0h-VZrDoGBAw_IS" target="_blank">Planet Drone channel on YouTube</a> to view an ever growing list of demos.
+Check out my <a href="https://www.youtube.com/watch?v=LrP70BMYkts&list=PL4E2GvauW2Yx9BJaXl0h-VZrDoGBAw_IS" target="_blank">Planet Drone channel</a> on YouTube to view an ever growing list of drone demos.
 
 <img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="20px"> Download the latest Planet Drone Raspberry PI image files from Google Drive (working on this!). You'll need a 32GB Micro SD card.
 
