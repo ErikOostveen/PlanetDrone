@@ -3,6 +3,7 @@
 ![Planet Drone Module](https://www.erikoostveen.co.uk/assets/img/portfolio/item-3--github.jpg)
 
 <br/>&#9642; Introduction
+
 Sound has a powerful effect on the brain and can be used as a tool to relax and destress. When we listen to soothing sounds, our brain waves slow down, leading to a state of relaxation. This can be particularly useful for individuals who struggle with anxiety, stress, and insomnia.
 
 One way that sound relaxes the brain is through the process of entrainment. This refers to the tendency of our brain waves to sync up with external rhythms, such as the sound of music or the sound of ocean waves. When we listen to these kinds of rhythmic sounds, our brain waves naturally slow down and become more synchronized, leading to a state of relaxation.
