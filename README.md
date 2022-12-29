@@ -13,3 +13,7 @@ Another way that sound relaxes the brain is through its ability to distract us f
 In addition to its ability to relax the brain, sound can also have a number of other beneficial effects on our physical and mental well-being. For example, research has shown that listening to music can lower blood pressure, reduce heart rate, and even boost the immune system. It can also help to improve our mood, increase feelings of happiness and pleasure, and even reduce the perception of pain.
 
 Overall, the relaxing power of sound is undeniable. Whether it's through entrainment, distraction, or any of its other beneficial effects, sound can be a powerful tool for helping us to relax and de-stress. So the next time you're feeling overwhelmed or anxious, consider turning on some soothing sounds and letting them work their magic on your brain.
+
+<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="20px"> Download the latest Planet Drone Raspberry PI image files from Google Drive (working on this!). You'll need a 32GB Micro SD card.
+
+Cheers! Erik
