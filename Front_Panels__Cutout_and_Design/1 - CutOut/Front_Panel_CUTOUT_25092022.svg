@@ -1,0 +1,240 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="80.940mm" height="128.400mm" version="1.1"
+     viewBox="0 0 80.940 128.400"
+     xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:fpd="http://www.schaeffer-ag.de">
+  <desc>Created with the Front Panel Designer by the export of the file 'Front_Panel_CUTOUT_25092022.fpd'.</desc>
+  <defs>
+    <pattern id="revside-fill" x="1" y="1" width="1.284" height="1.284" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1.284" y2="1.284" style="stroke-width:0.128; stroke:black; stroke-dasharray:none;" />
+      <line x1="0" y1="1.284" x2="1.284" y2="0" style="stroke-width:0.128; stroke:black; stroke-dasharray:none;" />
+    </pattern>
+    <pattern id="revside-fill-silver" x="1" y="1" width="1.284" height="1.284" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="1.284" y2="1.284" style="stroke-width:0.128; stroke:#e0e0e0; stroke-dasharray:none;" />
+      <line x1="0" y1="1.284" x2="1.284" y2="0" style="stroke-width:0.128; stroke:#e0e0e0; stroke-dasharray:none;" />
+    </pattern>
+  </defs>
+<g transform="scale(1,-1) translate( -0.000, -128.400)" 
+   fill-rule="evenodd"
+   style="stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0; stroke-opacity:1.0;">
+<path d="
+M79.940 128.400
+A1.000,1.000 0 0,0 80.940,127.400
+L80.940 1.000
+A1.000,1.000 0 0,0 79.940,0.000
+L1.000 0.000
+A1.000,1.000 0 0,0 0.000,1.000
+L0.000 127.400
+A1.000,1.000 0 0,0 1.000,128.400
+L79.940 128.400
+" 
+fill="#c0c0c0" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" />
+<path d="
+M8.600 111.248
+A3.100,3.100 0 1,0 14.800,111.248
+A3.100,3.100 0 1,0 8.600,111.248
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M27.600 111.248
+A3.100,3.100 0 1,0 33.800,111.248
+A3.100,3.100 0 1,0 27.600,111.248
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M61.500 111.248
+A2.400,2.400 0 1,0 66.300,111.248
+A2.400,2.400 0 1,0 61.500,111.248
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M60.300 19.998
+A3.600,3.600 0 1,0 67.500,19.998
+A3.600,3.600 0 1,0 60.300,19.998
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M7.350 89.698
+A1.000,1.000 0 0,1 8.350,88.698
+L32.050 88.698
+A1.000,1.000 0 0,1 33.050,89.698
+L33.050 98.298
+A1.000,1.000 0 0,1 32.050,99.298
+L8.350 99.298
+A1.000,1.000 0 0,1 7.350,98.298
+L7.350 89.698
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M5.000 125.048
+A1.000,1.000 0 0,1 6.000,124.048
+L9.000 124.048
+A1.000,1.000 0 0,1 10.000,125.048
+L10.000 126.048
+A1.000,1.000 0 0,1 9.000,127.048
+L6.000 127.048
+A1.000,1.000 0 0,1 5.000,126.048
+L5.000 125.048
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M5.000 1.948
+A1.000,1.000 0 0,1 6.000,0.948
+L9.000 0.948
+A1.000,1.000 0 0,1 10.000,1.948
+L10.000 2.948
+A1.000,1.000 0 0,1 9.000,3.948
+L6.000 3.948
+A1.000,1.000 0 0,1 5.000,2.948
+L5.000 1.948
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M70.900 1.948
+A1.000,1.000 0 0,1 71.900,0.948
+L74.900 0.948
+A1.000,1.000 0 0,1 75.900,1.948
+L75.900 2.948
+A1.000,1.000 0 0,1 74.900,3.948
+L71.900 3.948
+A1.000,1.000 0 0,1 70.900,2.948
+L70.900 1.948
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M70.900 125.048
+A1.000,1.000 0 0,1 71.900,124.048
+L74.900 124.048
+A1.000,1.000 0 0,1 75.900,125.048
+L75.900 126.048
+A1.000,1.000 0 0,1 74.900,127.048
+L71.900 127.048
+A1.000,1.000 0 0,1 70.900,126.048
+L70.900 125.048
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M60.300 43.998
+A3.600,3.600 0 1,0 67.500,43.998
+A3.600,3.600 0 1,0 60.300,43.998
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M60.300 67.998
+A3.600,3.600 0 1,0 67.500,67.998
+A3.600,3.600 0 1,0 60.300,67.998
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M60.300 91.998
+A3.600,3.600 0 1,0 67.500,91.998
+A3.600,3.600 0 1,0 60.300,91.998
+" 
+fill="#ffffff" fill-opacity="1.000000" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" fpd:print_element="0" />
+<path d="
+M79.940 128.400
+A1.000,1.000 0 0,0 80.940,127.400
+L80.940 1.000
+A1.000,1.000 0 0,0 79.940,0.000
+L1.000 0.000
+A1.000,1.000 0 0,0 0.000,1.000
+L0.000 127.400
+A1.000,1.000 0 0,0 1.000,128.400
+L79.940 128.400
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="0.100mm" stroke-opacity="1.000000" fpd:visible="front back" />
+<path d="
+M-0.773 0.000
+L0.773 0.000
+M0.000 -0.773
+L0.000 0.773
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M10.927 111.248
+L12.473 111.248
+M11.700 110.475
+L11.700 112.021
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M29.927 111.248
+L31.473 111.248
+M30.700 110.475
+L30.700 112.021
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M63.127 111.248
+L64.673 111.248
+M63.900 110.475
+L63.900 112.021
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M63.127 19.998
+L64.673 19.998
+M63.900 19.225
+L63.900 20.771
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M19.427 93.998
+L20.973 93.998
+M20.200 93.225
+L20.200 94.771
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M6.727 125.548
+L8.273 125.548
+M7.500 124.775
+L7.500 126.321
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M6.727 2.448
+L8.273 2.448
+M7.500 1.675
+L7.500 3.221
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M72.627 2.448
+L74.173 2.448
+M73.400 1.675
+L73.400 3.221
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M72.627 125.548
+L74.173 125.548
+M73.400 124.775
+L73.400 126.321
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M63.127 43.998
+L64.673 43.998
+M63.900 43.225
+L63.900 44.771
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M63.127 67.998
+L64.673 67.998
+M63.900 67.225
+L63.900 68.771
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+<path d="
+M63.127 91.998
+L64.673 91.998
+M63.900 91.225
+L63.900 92.771
+" 
+fill="none" vector-effect="non-scaling-stroke" stroke="#ff0000" stroke-width="0.100mm" stroke-opacity="1.000000" />
+</g>
+</svg>
