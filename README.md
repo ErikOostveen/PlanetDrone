@@ -14,6 +14,18 @@ In addition to its ability to relax the brain, sound can also have a number of o
 
 Overall, the relaxing power of sound is undeniable. Whether it's through entrainment, distraction, or any of its other beneficial effects, sound can be a powerful tool for helping us to relax and de-stress. So the next time you're feeling overwhelmed or anxious, consider turning on some soothing sounds and letting them work their magic on your brain.
 
+<br/>&#9642; Summary
+
+Planet Drone is an Open Source Raspberry PI Eurorack-Module project, which uses the <a href="https://supercollider.github.io/" target="_blank">SuperCollider</a> platform to generate distinctive and captivating music drones.
+
+Planet Drone consists of a triad of complementary, electronically-identical, Eurorack modules each wielding a unique set of extraordinary music drones (patches).
+
+On power-up, the module selects a random patch for you to enjoy listening to and manipulate using the four encoder knobs. Multiply this drone-power by 3 (i.e. 3 modules) and you can imagine the wonderful soundscapes you can create!
+
+Each module comes with a selection of patches written in the SuperCollider real time audio synthesis programming language (sclang). If you are up for a challengem you can edit existing patches or even write your own.
+
+Collect or build all three modules and get droning!
+
 <img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="20px"> Download the latest Planet Drone Raspberry PI image files from Google Drive (working on this!). You'll need a 32GB Micro SD card.
 
 Cheers! Erik
