@@ -33,10 +33,10 @@ Check out my <a href="https://www.youtube.com/watch?v=LrP70BMYkts&list=PL4E2Gvau
 &#9642; Raspberry PI image files
 
 <img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="20px"> Download the latest Planet Drone 
-<a href="https://drive.google.com/drive/folders/15fokcHUIsh2QlJMY6MdCen8XLZz8E1yO?usp=share_link" target="_blank">Raspberry PI image files</a> from Google Drive. You'll need a 32GB Micro SD card for each image.
+<a href="https://drive.google.com/drive/folders/15fokcHUIsh2QlJMY6MdCen8XLZz8E1yO?usp=share_link" target="_blank">Raspberry PI image files</a> from Google Drive. You'll need a 32GB Micro SD card for each of the three images (1 for each of the three modules).
 
 &#9642; Online Manual
 
-Check out the <a href="https://drive.google.com/drive/folders/15fokcHUIsh2QlJMY6MdCen8XLZz8E1yO?usp=share_link" target="_blank">Online Manual</a>.
+Check out the <a href="http://www.erikoostveen.co.uk/Planetdrone.html" target="_blank">Online Manual</a>.
 
 Enjoy! Erik
