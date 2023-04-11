@@ -28,8 +28,7 @@ Collect or build all three modules and get droning!
 
 &#9642; Demos
 
-<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/YouTube.png" width="20px">
-Check out my <a href="https://www.youtube.com/watch?v=LrP70BMYkts&list=PL4E2GvauW2Yx9BJaXl0h-VZrDoGBAw_IS" target="_blank">Planet Drone channel</a> on YouTube to view an ever growing list of drone demos.
+<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/YouTube.png" width="20px"> Check out my <a href="https://www.youtube.com/watch?v=LrP70BMYkts&list=PL4E2GvauW2Yx9BJaXl0h-VZrDoGBAw_IS" target="_blank">Planet Drone channel</a> on YouTube to view an ever growing list of drone demos.
 
 &#9642; Raspberry PI image files
 
