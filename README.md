@@ -37,6 +37,6 @@ Collect or build all three modules and get droning!
 
 &#9642; Online Manual
 
-Check out the <a href="http://www.erikoostveen.co.uk/Planetdrone.html" target="_blank">Online Manual</a>.
+<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/Manual.png" width="20px"> Check out the <a href="http://www.erikoostveen.co.uk/Planetdrone.html" target="_blank">Online Manual</a>.
 
 Enjoy! Erik
