@@ -30,6 +30,13 @@ Collect or build all three modules and get droning!
 
 Check out my <a href="https://www.youtube.com/watch?v=LrP70BMYkts&list=PL4E2GvauW2Yx9BJaXl0h-VZrDoGBAw_IS" target="_blank">Planet Drone channel</a> on YouTube to view an ever growing list of drone demos.
 
-<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="20px"> Download the latest Planet Drone Raspberry PI image files from Google Drive (working on this!). You'll need a 32GB Micro SD card.
+&#9642; Raspberry PI image files
 
-Cheers! Erik
+<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="20px"> Download the latest Planet Drone 
+<a href="https://drive.google.com/drive/folders/15fokcHUIsh2QlJMY6MdCen8XLZz8E1yO?usp=share_link" target="_blank">Raspberry PI image files</a> from Google Drive. You'll need a 32GB Micro SD card for each image.
+
+&#9642; Online Manual
+
+Check out the <a href="https://drive.google.com/drive/folders/15fokcHUIsh2QlJMY6MdCen8XLZz8E1yO?usp=share_link" target="_blank">Online Manual</a>.
+
+Enjoy! Erik
