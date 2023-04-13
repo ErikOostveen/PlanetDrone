@@ -26,7 +26,7 @@ Each module comes with a selection of patches written in the SuperCollider real 
 
 Collect or build all three modules and get droning!
 
-&#9642; PCBWax
+&#9642; PCBWay
 
 Check out this project on <a href="https://www.pcbway.com/project/shareproject/Planet_Drone_48e0f221.html">PCBWay</a>
 
